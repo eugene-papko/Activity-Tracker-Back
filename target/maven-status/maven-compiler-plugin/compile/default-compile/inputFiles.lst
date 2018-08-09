@@ -1,0 +1,9 @@
+/Users/yauhenip/Labs/CR-MacroLabs-Spring-QuickPollApplication/src/main/java/io/zipcoder/tc_spring_poll_application/repositories/PollRepository.java
+/Users/yauhenip/Labs/CR-MacroLabs-Spring-QuickPollApplication/src/main/java/io/zipcoder/tc_spring_poll_application/controller/PollController.java
+/Users/yauhenip/Labs/CR-MacroLabs-Spring-QuickPollApplication/src/main/java/io/zipcoder/tc_spring_poll_application/repositories/VoteRepository.java
+/Users/yauhenip/Labs/CR-MacroLabs-Spring-QuickPollApplication/src/main/java/io/zipcoder/tc_spring_poll_application/domain/Vote.java
+/Users/yauhenip/Labs/CR-MacroLabs-Spring-QuickPollApplication/src/main/java/io/zipcoder/tc_spring_poll_application/controller/VoteController.java
+/Users/yauhenip/Labs/CR-MacroLabs-Spring-QuickPollApplication/src/main/java/io/zipcoder/tc_spring_poll_application/domain/Poll.java
+/Users/yauhenip/Labs/CR-MacroLabs-Spring-QuickPollApplication/src/main/java/io/zipcoder/tc_spring_poll_application/repositories/OptionRepository.java
+/Users/yauhenip/Labs/CR-MacroLabs-Spring-QuickPollApplication/src/main/java/io/zipcoder/tc_spring_poll_application/QuickPollApplication.java
+/Users/yauhenip/Labs/CR-MacroLabs-Spring-QuickPollApplication/src/main/java/io/zipcoder/tc_spring_poll_application/domain/Option.java
